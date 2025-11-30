@@ -72,5 +72,3 @@ This project also inculde:
 1- Presentation of the Idea
 2- Business Plan
 3- Demo of features
-
-If you want, I can also prepare an installation guide, add example requests for each API, or create an extended README with diagrams.
